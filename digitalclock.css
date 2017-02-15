@@ -1,0 +1,28 @@
+h1 {
+	color:blue;
+}
+
+
+
+#clock {
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+div { 
+  width: 680px;
+  padding: 10px 25px;
+  margin: 50px auto;
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.4); 
+  color: #1F1F1F;
+}
+
